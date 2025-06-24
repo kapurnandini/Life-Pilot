@@ -15,11 +15,11 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 export function ProfileView() {
   const [isEditing, setIsEditing] = useState(false)
   const [profile, setProfile] = useState({
-    name: "Alex Johnson",
-    email: "alex.johnson@university.edu",
-    phone: "(555) 123-4567",
-    location: "Boston, MA",
-    school: "Boston University",
+    name: "Nandini Kapoor",
+    email: "nandinik921@gmail.com",
+    phone: "9549221111",
+    location: "India",
+    school: "Vellore Institute of Technology",
     major: "Computer Science",
     year: "Junior",
     bio: "Computer Science student passionate about AI and machine learning. Looking to build tools that help students succeed.",
